@@ -1,6 +1,6 @@
 {
   "name": "diff-hg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Based on Hirschberg's algorithm module to compare differences between text files",
   "main": "index.js",
   "dependencies": {

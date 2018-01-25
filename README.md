@@ -12,7 +12,7 @@ Thus it is feasible to compare large files.
 
 ## How To Install   
 ```bash
-npm install
+npm install diff-hg
 ```
    
 

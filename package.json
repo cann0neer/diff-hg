@@ -1,0 +1,27 @@
+{
+  "name": "diff-hg",
+  "version": "1.0.0",
+  "description": "Based on Hirschberg's algorithm module to compare differences between text files",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hirschberg",
+    "diff"
+  ],
+  "author": "cannoneer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cann0neer/diff-hg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cann0neer/diff-hg/issues"
+  },
+  "homepage": "https://github.com/cann0neer/diff-hg#readme"
+}

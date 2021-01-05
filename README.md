@@ -5,6 +5,8 @@ Based on Hirschberg's algorithm of finding longest common subsequence (LCS).
 The main idea is an efficient memory usage.
 Thus it is feasible to compare large files.
 
+Test publish.
+
 ## Features
 * large files comparison
 * several files at once
